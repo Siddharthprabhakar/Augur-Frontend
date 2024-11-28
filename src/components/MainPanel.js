@@ -81,7 +81,6 @@ const filteredShipments = shipments.filter((shipment) => {
         ))}
       </div>
 
-      {/* Divider */}
       <div className="divider my-14 text-4xl font-bold">Shipment Summary</div>
 
       {/* Shipments Stats */}
